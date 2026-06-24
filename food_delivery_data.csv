@@ -1,0 +1,611 @@
+order_id,restaurant_name,cuisine_type,city,order_date,delivery_time,order_value,payment_method,rating,order_status
+5106,cafe mocha,Continental,Rajkot,10/11/2024,152,513.49,cod,4,Returned
+5089,Spice Garden,North Indian,Surat,2024-04-25,N/A,,COD,5 stars,Delivered
+5164,Curry House,Chinese,Ahmedabad,04-23-2024,199,NaN,Wallet,5 stars,delivered
+5108,Curry House ,Chinese,ahmedabad,23-Feb-2024,19 min,829.43,Wallet,NA,Returned
+5465,Noodle Box,fast food,Surat,2024-03-02,N/A,NaN,Cash on Delivery,4 stars,Cancelled
+5153,Curry House,Fast Food,surat,04-09-2024,,Rs.188.04,Wallet,NA,Delivered
+5568,Pizza Palace,fast food,surat,2024-06-17,28 min,948.38,Cash on Delivery,3.5,Cancelled
+5080,burger hub,South Indian,Mumbai,2024-04-23,19,1428.3/-,COD,4 stars,Delivered
+5216,Curry House,Continental ,Vadodara,11-03-2024,16 min,1429.01/-,Cash on Delivery,4 stars,Returned
+5231,SPICE GARDEN,Continental,ahmedabad,24/02/2024,55.3 mins,167.7/-,Credit Card,0,Delivered Late
+5555,Noodle Box,Continental,Surat,10/08/2024,46 min,174.24/-,COD,,cancelled
+5518,spice garden,Fast Food,Mumbai,06-08-2024,24.5 mins,Rs.735.37,Credit Card,,cancelled
+5363,Cafe Mocha,Desserts,Vadodara,03/03/2024,-22,NaN,cod,4 stars,cancelled
+5593,cafe mocha,Italian,Rajkot,2024-07-13,193,749.99,upi,NA,Delivered Late
+5053,Noodle Box,chinese,Vadodara,08-21-2024,-33,NaN,Wallet,4 stars,Delivered Late
+5591,Cafe Mocha,Continental ,Ahmedabad,01-21-2024,295,,COD,4 stars,Cancelled
+5452,Curry House ,South Indian,Mumbai,10-Sep-2024,58 min,,UPI,4 stars,Returned
+5008,Taco Town,South Indian,Ahmedabad,05-07-2024,58 min,₹276.82,COD,,Cancelled
+5031,Curry House,Continental ,Rajkot,2024-04-20,26 min,1293.92,upi,4,Delivered Late
+5268,Biryani Blues ,South Indian,Mumbai,12/02/2024,-45,NaN,upi,5 stars,Delivered Late
+5434,spice garden,Fast Food,Rajkot,2024-09-30,20.8 mins,Rs.1334.01,UPI,5 stars,Delivered Late
+5438,cafe mocha,Chinese,Surat,18/07/2024,32.9 mins,,Wallet,,Delivered
+5362,Biryani Blues ,Chinese,ahmedabad,24-May-2024,,NaN,Cash on Delivery,4.9,Delivered Late
+5384,Biryani Blues,Chinese,Surat,06-09-2024,,1102.98/-,Cash on Delivery,4 stars,Cancelled
+5170,The Sushi Spot,Continental ,Surat,2024-07-08,N/A,NaN,Cash on Delivery,NA,cancelled
+5067,Grill Master,Mexican,Vadodara,2024-03-27,16,424.86/-,UPI,0,delivered
+5359,Sweet Tooth Bakery,Continental,Mumbai,02-26-2024,58,NaN,Wallet,0,delivered
+5404,spice garden,North Indian,Rajkot,05/10/2024,N/A,,Credit Card,4 stars,Delivered Late
+5317,cafe mocha,south indian,Surat,21/01/2024,53.7 mins,,Credit Card,,Cancelled
+5524,Cafe Mocha,south indian,Rajkot,05-11-2024,25 min,816.0,Cash on Delivery,5 stars,Delivered
+5066,Spice Garden,Mexican,Ahmedabad,2024-06-10,-29,Rs.554.04,Cash on Delivery,3.5,Delivered
+5569,spice garden,North Indian,ahmedabad,15/12/2024,,,Credit Card,3.1,Returned
+5196,Cafe Mocha,fast food,Ahmedabad,10-25-2024,33.1 mins,Rs.979.72,Cash on Delivery,0,Delivered Late
+5138,Biryani Blues,Desserts,ahmedabad,2024-01-11,55.5 mins,1485.98,Cash on Delivery,NA,Delivered Late
+5131,Burger Hub,Italian,surat,28/03/2024,194,,cod,NA,Cancelled
+5065,Taco Town,fast food,Mumbai,07-02-2024,,Rs.257.22,Cash on Delivery,0,cancelled
+5423,Cafe Mocha,Mexican,Surat,16-Jul-2024,55 min,NaN,cod,NA,cancelled
+5237,Biryani Blues,Mexican,Vadodara,14-Jan-2024,18 min,1327.3,Credit Card,0,Delivered
+5402,Cafe Mocha,Fast Food,Surat,03/01/2024,52,NaN,COD,0,Returned
+5159,Taco Town,Italian,Vadodara,2024-03-08,121,NaN,upi,NA,Delivered
+5157,Noodle Box,Continental,Mumbai,16-Nov-2024,28,Rs.508.94,Wallet,4 stars,Delivered
+5596,Grill Master,South Indian,surat,2024-04-25,-41,Rs.1060.69,Wallet,,Delivered
+5399,spice garden,chinese,Ahmedabad,2024-05-03,17 min,577.71/-,Credit Card,5 stars,Delivered Late
+5497,Sweet Tooth Bakery,Continental,Rajkot,29/02/2024,49 min,₹817.41,Wallet,4.1,Returned
+5286,Taco Town,North Indian,ahmedabad,13/03/2024,N/A,Rs.535.05,cod,5 stars,delivered
+5292,Noodle Box,chinese,Mumbai,05-10-2024,16.8 mins,500.5/-,UPI,4 stars,Cancelled
+5378,cafe mocha,Italian,Surat,29/11/2024,-39,₹221.81,Credit Card,,Delivered
+5228,Cafe Mocha,chinese,ahmedabad,13/11/2024,N/A,Rs.921.88,Wallet,4.1,delivered
+5180,Curry House ,south indian,Vadodara,05-06-2024,176,,Credit Card,0,Delivered
+5573,Curry House,North Indian,Mumbai,2024-06-15,210,,cod,,Delivered
+5282,The Sushi Spot,south indian,ahmedabad,03/05/2024,46 min,₹1397.16,UPI,3.5,Cancelled
+5209,spice garden,south indian,Mumbai,06-02-2024,N/A,Rs.476.07,cod,2,cancelled
+5565,Grill Master,south indian,Rajkot,13/09/2024,-44,1051.62/-,upi,NA,cancelled
+5581,Curry House ,fast food,Surat,05-16-2024,35.8 mins,Rs.742.42,upi,5 stars,Delivered
+5538,The Sushi Spot,fast food,ahmedabad,20/06/2024,21.8 mins,,upi,5 stars,delivered
+5229,Grill Master,chinese,Surat,23-Oct-2024,32 min,NaN,Wallet,4,Delivered Late
+5430,The Sushi Spot,Desserts,Mumbai,27/11/2024,139,NaN,Wallet,0,Returned
+5325,Curry House,Desserts,Mumbai,2024-04-29,N/A,,upi,NA,Delivered Late
+5455,Pizza Palace,fast food,surat,26/08/2024,235,Rs.533.08,COD,NA,Delivered
+5553,Biryani Blues ,Continental ,Vadodara,14-Nov-2024,54 min,Rs.590.73,Wallet,5 stars,Delivered Late
+5011,Pizza Palace,south indian,Rajkot,31-Oct-2024,N/A,Rs.1249.83,UPI,4 stars,Returned
+5306,Spice Garden,Chinese,Vadodara,09-09-2024,N/A,1074.46/-,COD,4,delivered
+5436,Biryani Blues ,south indian,Rajkot,08/11/2024,167,1272.22,Credit Card,5 stars,Delivered
+5337,spice garden,South Indian,Surat,2024-09-16,28.1 mins,545.8/-,UPI,4.1,Delivered
+5269,Biryani Blues,Mexican,surat,02-23-2024,196,803.07,Cash on Delivery,,delivered
+5120,The Sushi Spot,Continental ,Mumbai,25/11/2024,N/A,Rs.898.45,Wallet,,Delivered
+5310,Pizza Palace,Mexican,ahmedabad,20-May-2024,24 min,853.69,upi,4 stars,Cancelled
+5236,Taco Town,South Indian,Vadodara,02/04/2024,,NaN,cod,,Cancelled
+5261,Noodle Box,chinese,surat,2024-03-16,56,NaN,cod,5,Returned
+5070,The Sushi Spot,fast food,ahmedabad,01-Oct-2024,N/A,199.47,UPI,1.0,Returned
+5274,The Sushi Spot,south indian,surat,2024-09-26,-44,155.12/-,Credit Card,4 stars,delivered
+5068,Sweet Tooth Bakery,south indian,Ahmedabad,09-04-2024,52,Rs.615.57,upi,0,cancelled
+5527,Spice Garden,Fast Food,Surat,06-06-2024,35,510.28/-,UPI,,cancelled
+5278,Biryani Blues,Continental ,Mumbai,2024-10-01,47,413.99/-,Wallet,3.3,cancelled
+5427,Biryani Blues,Continental,Ahmedabad,25/09/2024,43.3 mins,605.44/-,UPI,1,cancelled
+5383,Biryani Blues ,Mexican,Rajkot,22-Dec-2024,40,NaN,Credit Card,NA,cancelled
+5239,SPICE GARDEN,Desserts,Rajkot,09-Aug-2024,44,NaN,Credit Card,4 stars,Returned
+5139,SPICE GARDEN,Continental,Ahmedabad,07-30-2024,-55,1059.08,Credit Card,5 stars,cancelled
+5158,Burger Hub,Mexican,Surat,2024-12-09,17,,COD,5 stars,Delivered
+5406,The Sushi Spot,fast food,Rajkot,16/08/2024,-56,153.84,UPI,1.3,Returned
+5429,Biryani Blues ,Continental,Ahmedabad,30-May-2024,-41,NaN,COD,5 stars,Cancelled
+5397,The Sushi Spot,South Indian,Mumbai,11-Jun-2024,15 min,NaN,cod,0,delivered
+5372,Burger Hub,south indian,Ahmedabad,09-26-2024,,625.62/-,Credit Card,4.0,cancelled
+5355,Curry House ,Continental ,ahmedabad,20-May-2024,49.2 mins,1394.42/-,COD,NA,Returned
+5003,Sweet Tooth Bakery,Chinese,Vadodara,28-Jul-2024,201,1116.6/-,COD,NA,Cancelled
+5479,Curry House ,Continental,surat,2024-09-14,-59,NaN,Credit Card,5 stars,Delivered
+5450,Curry House ,Fast Food,Rajkot,12-30-2024,,,Cash on Delivery,5 stars,delivered
+5483,cafe mocha,Continental ,Surat,06-Nov-2024,29,Rs.1424.33,Cash on Delivery,NA,delivered
+5580,Curry House ,Desserts,Surat,27-Apr-2024,N/A,Rs.701.84,Wallet,5,cancelled
+5462,SPICE GARDEN,Italian,Surat,10-02-2024,-59,,COD,3.8,delivered
+5386,Grill Master,Continental,Ahmedabad,2024-12-25,,NaN,COD,,Cancelled
+5365,Grill Master,North Indian,Rajkot,2024-06-19,292,₹919.71,Credit Card,3.4,Returned
+5146,The Sushi Spot,Fast Food,surat,01-Jul-2024,51,Rs.442.87,upi,NA,cancelled
+5432,spice garden,Mexican,Vadodara,2024-03-21,38,NaN,Wallet,0,Delivered
+5247,Cafe Mocha,South Indian,ahmedabad,2024-02-25,57 min,Rs.941.14,Cash on Delivery,5 stars,Returned
+5220,Cafe Mocha,North Indian,ahmedabad,15-Feb-2024,46.1 mins,570.88,Wallet,NA,delivered
+5428,Curry House,Italian,ahmedabad,23-Feb-2024,,₹1470.29,COD,NA,delivered
+5542,Cafe Mocha,fast food,Mumbai,2024-09-22,54,941.53/-,Wallet,,Delivered
+5356,Biryani Blues ,Continental ,Rajkot,05-26-2024,,NaN,upi,4 stars,Delivered
+5124,Sweet Tooth Bakery,Continental,Mumbai,29/10/2024,-42,1168.88,COD,5,Delivered Late
+5072,The Sushi Spot,South Indian,ahmedabad,22/03/2024,N/A,Rs.1303.02,Credit Card,4 stars,Delivered
+5519,SPICE GARDEN,Fast Food,surat,02-18-2024,48 min,390.26/-,UPI,1,cancelled
+5374,Pizza Palace,fast food,Vadodara,04/01/2024,45 min,,Credit Card,,Delivered Late
+5508,Biryani Blues ,Mexican,Ahmedabad,14-Mar-2024,20,NaN,Wallet,5 stars,Delivered Late
+5265,Taco Town,Italian,Vadodara,10-14-2024,27,,UPI,1.4,delivered
+5014,cafe mocha,Continental ,Rajkot,06-05-2024,59.5 mins,₹1332.15,Cash on Delivery,NA,Delivered
+5441,Cafe Mocha,Desserts,Surat,30-Jan-2024,46.3 mins,,COD,NA,Delivered
+5214,Pizza Palace,Continental ,surat,02/08/2024,28,₹787.24,Credit Card,,Delivered Late
+5530,Sweet Tooth Bakery,North Indian,Rajkot,01-29-2024,30.4 mins,378.16/-,Credit Card,,Cancelled
+5345,cafe mocha,chinese,Vadodara,06-15-2024,17,₹924.58,cod,4 stars,Returned
+5213,cafe mocha,Italian,ahmedabad,05/12/2024,178,₹676.97,UPI,,Cancelled
+5299,Noodle Box,South Indian,Ahmedabad,08-Sep-2024,N/A,818.86,Cash on Delivery,4 stars,cancelled
+5545,Noodle Box,Italian,Surat,2024-02-23,18.8 mins,Rs.1197.05,upi,2,Delivered
+5380,The Sushi Spot,Continental,Surat,29-Oct-2024,248,₹721.66,Credit Card,NA,Delivered
+5251,Spice Garden,Chinese,ahmedabad,26-Aug-2024,39 min,292.68/-,Credit Card,5 stars,Cancelled
+5547,Taco Town,Desserts,surat,2024-06-10,150,1407.18/-,Credit Card,NA,Cancelled
+5099,Biryani Blues ,Desserts,Vadodara,2024-12-21,49.0 mins,1234.34,UPI,0,cancelled
+5075,Biryani Blues,North Indian,Mumbai,09-Oct-2024,42.6 mins,,upi,4.7,Delivered Late
+5163,Curry House ,Chinese,surat,07-Jul-2024,,NaN,UPI,3.4,Delivered
+5275,Spice Garden,Desserts,surat,2024-08-27,18.1 mins,₹1183.55,Cash on Delivery,,Delivered Late
+5354,The Sushi Spot,North Indian,ahmedabad,2024-01-04,-24,,UPI,2,Delivered Late
+5025,Burger Hub,Mexican,Surat,09-07-2024,31,₹603.74,UPI,4 stars,Returned
+5339,Cafe Mocha,Continental ,ahmedabad,2024-06-20,N/A,994.24/-,UPI,3,Returned
+5307,Curry House,North Indian,surat,12-04-2024,46.8 mins,Rs.1047.03,UPI,5 stars,cancelled
+5175,Curry House ,Fast Food,Mumbai,29-Jan-2024,N/A,Rs.159.83,COD,1.8,Cancelled
+5166,SPICE GARDEN,Fast Food,Rajkot,02-25-2024,19 min,₹1290.05,upi,0,Cancelled
+5471,burger hub,Italian,surat,2024-12-10,N/A,Rs.1242.57,Cash on Delivery,4,Delivered
+5015,Noodle Box,Continental ,ahmedabad,03-26-2024,,₹260.69,upi,NA,cancelled
+5320,The Sushi Spot,South Indian,ahmedabad,2024-07-10,23.5 mins,NaN,COD,0,delivered
+5271,The Sushi Spot,South Indian,ahmedabad,03-May-2024,N/A,251.26/-,upi,5 stars,delivered
+5477,Biryani Blues,Italian,surat,10/05/2024,48,249.7,COD,,cancelled
+5290,Curry House,Italian,Ahmedabad,24-May-2024,N/A,₹1362.08,Cash on Delivery,,Delivered
+5314,Curry House ,Mexican,Vadodara,2024-04-20,50.0 mins,1019.97/-,Cash on Delivery,2,Cancelled
+5117,Biryani Blues ,fast food,Surat,18/09/2024,-51,806.91,COD,NA,Returned
+5311,Taco Town,fast food,Vadodara,05-30-2024,N/A,,COD,NA,Delivered
+5458,Pizza Palace,south indian,Mumbai,06/05/2024,-17,NaN,Wallet,0,cancelled
+5211,Biryani Blues ,North Indian,Vadodara,02-Nov-2024,170,Rs.1386.14,upi,4 stars,Returned
+5112,Noodle Box,Fast Food,Mumbai,14/07/2024,,908.36,UPI,1.4,Delivered
+5267,Curry House,fast food,Surat,10-11-2024,44,766.1/-,upi,,delivered
+5454,spice garden,South Indian,surat,30/08/2024,N/A,Rs.1203.2,Wallet,,delivered
+5018,Sweet Tooth Bakery,Desserts,Vadodara,04-06-2024,267,NaN,COD,4 stars,cancelled
+5006,Sweet Tooth Bakery,Continental ,ahmedabad,03-Dec-2024,N/A,1156.89/-,UPI,,delivered
+5280,SPICE GARDEN,Continental,Ahmedabad,10-12-2024,31 min,1007.18/-,Cash on Delivery,4 stars,delivered
+5552,Grill Master,North Indian,Surat,03/03/2024,258,,UPI,2.6,Cancelled
+5063,spice garden,Italian,ahmedabad,01-19-2024,46 min,₹850.71,UPI,NA,Delivered Late
+5040,burger hub,North Indian,Ahmedabad,28-Jul-2024,N/A,₹865.39,UPI,5 stars,delivered
+5317,cafe mocha,south indian,Surat,21/01/2024,53.7 mins,,Credit Card,,Cancelled
+5431,cafe mocha,Desserts,Mumbai,03-01-2024,16.7 mins,₹355.96,Credit Card,2.1,Cancelled
+5224,SPICE GARDEN,Italian,surat,22/10/2024,21 min,1265.32/-,upi,5 stars,Delivered
+5506,SPICE GARDEN,Continental ,Mumbai,03/10/2024,37 min,Rs.334.04,Credit Card,4 stars,delivered
+5349,Noodle Box,Chinese,Rajkot,11-19-2024,N/A,Rs.1280.85,UPI,4,delivered
+5521,Biryani Blues ,Fast Food,surat,2024-06-03,147,Rs.768.73,Credit Card,NA,Cancelled
+5047,burger hub,Continental ,Surat,05-15-2024,39.1 mins,Rs.1243.09,COD,4.9,Delivered Late
+5064,Cafe Mocha,Fast Food,surat,09-14-2024,35,Rs.1260.67,cod,,cancelled
+5489,Spice Garden,Mexican,Vadodara,08-21-2024,34 min,,COD,0,delivered
+5055,cafe mocha,Fast Food,Surat,04-Aug-2024,29 min,,COD,NA,delivered
+5303,Grill Master,chinese,ahmedabad,2024-01-09,N/A,,Credit Card,2,delivered
+5189,Taco Town,Continental,Mumbai,11-20-2024,44 min,NaN,COD,4 stars,delivered
+5482,Grill Master,Desserts,Vadodara,2024-08-15,19,Rs.1075.01,Credit Card,,cancelled
+5062,Spice Garden,Continental ,Vadodara,03/11/2024,-30,,UPI,NA,Delivered Late
+5385,Curry House ,North Indian,Vadodara,15/07/2024,300,Rs.677.63,Wallet,5 stars,Delivered
+5147,spice garden,fast food,Surat,15-Dec-2024,N/A,937.02/-,Cash on Delivery,NA,cancelled
+5225,The Sushi Spot,Italian,Ahmedabad,09/01/2024,N/A,,cod,4,delivered
+5133,Curry House,Desserts,Mumbai,16-May-2024,,,COD,5 stars,Delivered Late
+5103,Taco Town,Desserts,surat,11-Jul-2024,24,₹900.06,cod,,Delivered
+5446,Taco Town,Continental,Ahmedabad,28/01/2024,-17,Rs.979.99,cod,NA,Returned
+5551,Pizza Palace,fast food,Ahmedabad,11/05/2024,,,Wallet,3.9,cancelled
+5192,Pizza Palace,South Indian,surat,2024-04-11,-39,985.98/-,Wallet,4 stars,delivered
+5592,Grill Master,Continental,ahmedabad,24-Mar-2024,41 min,748.31/-,Credit Card,0,delivered
+5276,burger hub,Italian,Mumbai,05/12/2024,N/A,692.49/-,COD,5 stars,Delivered Late
+5583,Burger Hub,Continental,Surat,17-Feb-2024,-58,NaN,cod,0,delivered
+5340,Curry House ,North Indian,Rajkot,12-25-2024,N/A,,upi,3,Cancelled
+5316,Pizza Palace,South Indian,Surat,2024-03-09,168,825.21/-,COD,5 stars,Delivered Late
+5203,Noodle Box,chinese,ahmedabad,09-27-2024,31.5 mins,1218.15/-,Wallet,0,Cancelled
+5134,SPICE GARDEN,Continental ,Vadodara,2024-11-28,23 min,Rs.1126.76,cod,5,cancelled
+5226,Grill Master,Desserts,surat,2024-09-01,23 min,Rs.1304.53,upi,4 stars,delivered
+5238,Spice Garden,south indian,Mumbai,02-25-2024,31 min,NaN,cod,3,delivered
+5188,cafe mocha,Italian,surat,06-28-2024,,Rs.915.11,Cash on Delivery,4 stars,Returned
+5338,Sweet Tooth Bakery,Chinese,Mumbai,16/11/2024,,Rs.764.26,COD,4.9,Returned
+5154,Sweet Tooth Bakery,Continental,Rajkot,28/05/2024,38.0 mins,1398.61/-,cod,2.8,Returned
+5042,Biryani Blues ,Continental ,Rajkot,09-May-2024,40 min,₹457.37,Wallet,4 stars,delivered
+5210,cafe mocha,chinese,Surat,04/01/2024,30,NaN,Wallet,5 stars,Returned
+5045,Taco Town,fast food,Mumbai,29-Jul-2024,,₹869.88,upi,4 stars,Returned
+5476,spice garden,chinese,Rajkot,2024-08-14,N/A,NaN,UPI,2.1,Delivered
+5142,Biryani Blues ,Fast Food,surat,26/07/2024,17,357.93,Credit Card,4,Returned
+5191,Spice Garden,North Indian,Ahmedabad,11-29-2024,,265.1,UPI,0,Cancelled
+5262,Biryani Blues ,Chinese,ahmedabad,12-Nov-2024,22 min,NaN,upi,NA,Cancelled
+5128,Noodle Box,fast food,Rajkot,2024-03-10,141,Rs.1436.23,UPI,5 stars,Cancelled
+5160,Noodle Box,south indian,Surat,17-Apr-2024,-50,Rs.1189.82,UPI,5 stars,Delivered Late
+5194,Curry House ,Continental ,Vadodara,2024-01-12,,,UPI,4 stars,Delivered Late
+5123,Spice Garden,South Indian,surat,16-Jun-2024,,Rs.866.1,cod,4 stars,Delivered Late
+5254,Curry House,Mexican,Surat,16/07/2024,-18,NaN,COD,,Cancelled
+5168,Curry House,south indian,Ahmedabad,2024-01-22,N/A,1342.11,Cash on Delivery,1.2,Returned
+5329,cafe mocha,Fast Food,Surat,15-Jun-2024,,NaN,cod,5 stars,delivered
+5100,cafe mocha,Desserts,Vadodara,23-Mar-2024,-58,NaN,Credit Card,,Delivered
+5301,Noodle Box,South Indian,Mumbai,07/11/2024,299,617.56,COD,5 stars,Returned
+5102,The Sushi Spot,chinese,ahmedabad,11-08-2024,-35,Rs.282.03,Cash on Delivery,3,Delivered Late
+5579,Biryani Blues,Fast Food,Surat,30-Oct-2024,169,1444.67/-,cod,NA,Returned
+5381,spice garden,Continental ,surat,10-30-2024,,NaN,COD,1,Delivered
+5270,spice garden,Italian,Rajkot,29-Apr-2024,N/A,NaN,Credit Card,NA,Returned
+5566,Spice Garden,Italian,Ahmedabad,09-Nov-2024,,1317.24,UPI,5 stars,Returned
+5260,Curry House,Continental,ahmedabad,09-Jan-2024,-28,NaN,cod,0,cancelled
+5526,Sweet Tooth Bakery,Continental ,surat,13/12/2024,N/A,Rs.669.45,Wallet,0,Delivered Late
+5141,Burger Hub,south indian,Surat,30/10/2024,N/A,NaN,Credit Card,0,cancelled
+5522,Biryani Blues,chinese,Mumbai,21/04/2024,47.1 mins,293.56/-,UPI,2,Returned
+5367,Curry House ,Desserts,Surat,04-28-2024,135,1324.1/-,UPI,2.8,Cancelled
+5341,Taco Town,Continental ,surat,01-25-2024,42.7 mins,1419.54/-,COD,0,cancelled
+5464,cafe mocha,Chinese,Surat,18/10/2024,40.6 mins,Rs.1321.79,COD,,Delivered
+5046,Sweet Tooth Bakery,South Indian,Surat,10-09-2024,-35,Rs.717.32,cod,NA,delivered
+5248,Cafe Mocha,fast food,Surat,24-Jul-2024,-33,1152.55,upi,2,Cancelled
+5440,Biryani Blues ,South Indian,Surat,31/07/2024,28.4 mins,454.53/-,COD,4 stars,Cancelled
+5253,Pizza Palace,fast food,Rajkot,29/09/2024,N/A,194.68,UPI,3,Returned
+5129,Pizza Palace,Desserts,ahmedabad,24/06/2024,18 min,1041.81/-,Cash on Delivery,0,cancelled
+5013,Noodle Box,Chinese,ahmedabad,07-23-2024,35,1352.16/-,Cash on Delivery,0,cancelled
+5348,Burger Hub,Continental,surat,2024-10-28,18.1 mins,228.86/-,UPI,5 stars,cancelled
+5184,Biryani Blues ,North Indian,ahmedabad,22-May-2024,59.8 mins,₹541.45,COD,4 stars,Delivered Late
+5481,spice garden,south indian,ahmedabad,14/06/2024,50 min,788.42,cod,3.3,Returned
+5092,burger hub,Continental,Vadodara,26-Dec-2024,20 min,NaN,Wallet,3,Cancelled
+5326,Noodle Box,south indian,Rajkot,2024-06-16,,617.19,Credit Card,1.0,Delivered Late
+5212,Biryani Blues,fast food,Rajkot,2024-02-29,55 min,,Credit Card,,cancelled
+5344,Noodle Box,Chinese,Ahmedabad,03-20-2024,48 min,,Wallet,5 stars,cancelled
+5480,Biryani Blues ,North Indian,Ahmedabad,09/08/2024,,NaN,cod,4 stars,Delivered Late
+5382,burger hub,Italian,ahmedabad,08-04-2024,N/A,243.87/-,Cash on Delivery,0,Cancelled
+5474,Biryani Blues,fast food,ahmedabad,07-18-2024,54.6 mins,NaN,UPI,,cancelled
+5001,Biryani Blues ,South Indian,Vadodara,2024-04-29,-36,₹306.34,cod,1,Cancelled
+5195,Biryani Blues ,Fast Food,Surat,17/05/2024,,286.56/-,cod,,Delivered Late
+5537,Biryani Blues,Desserts,Surat,17/07/2024,-15,,upi,,Delivered
+5061,Taco Town,Italian,ahmedabad,12/03/2024,43.6 mins,Rs.1317.66,Credit Card,5 stars,delivered
+5076,Sweet Tooth Bakery,Fast Food,Surat,09-24-2024,43 min,NaN,Wallet,0,Delivered Late
+5113,Biryani Blues,south indian,Rajkot,12-20-2024,-44,₹929.21,Cash on Delivery,5 stars,Delivered Late
+5572,spice garden,North Indian,ahmedabad,16/05/2024,40 min,,Cash on Delivery,2,Delivered
+5424,burger hub,Chinese,Surat,2024-07-14,186,Rs.1232.62,COD,3.3,Delivered
+5311,Taco Town,fast food,Vadodara,05-30-2024,N/A,,COD,NA,Delivered
+5342,SPICE GARDEN,Fast Food,Rajkot,08-Jan-2024,19 min,1391.65/-,Wallet,5 stars,Delivered Late
+5085,Biryani Blues ,Italian,Vadodara,30-Oct-2024,198,1388.94/-,Wallet,4 stars,Delivered Late
+5033,Grill Master,Continental,Ahmedabad,01-24-2024,N/A,₹1197.9,Cash on Delivery,,Cancelled
+5357,Burger Hub,Fast Food,surat,14-Jun-2024,50,₹1335.26,Credit Card,1,Delivered
+5104,Pizza Palace,Fast Food,surat,21/08/2024,48,1004.53/-,COD,,delivered
+5202,Cafe Mocha,chinese,ahmedabad,14-Jul-2024,-37,NaN,cod,3,delivered
+5437,Grill Master,Chinese,Vadodara,05-Jul-2024,21.5 mins,,cod,1.6,Delivered Late
+5144,cafe mocha,Italian,surat,26-May-2024,37.7 mins,₹489.73,UPI,,cancelled
+5206,burger hub,North Indian,Ahmedabad,21/05/2024,40,NaN,Wallet,3.9,Delivered Late
+5024,burger hub,Mexican,Mumbai,24/02/2024,49,777.15/-,Cash on Delivery,5 stars,delivered
+5105,The Sushi Spot,North Indian,Rajkot,08-06-2024,-20,Rs.1177.85,UPI,,Cancelled
+5425,burger hub,Mexican,ahmedabad,12-Oct-2024,57,NaN,cod,NA,cancelled
+5169,The Sushi Spot,Italian,Surat,04/03/2024,33,₹273.12,Cash on Delivery,5 stars,delivered
+5575,Curry House,Continental ,Surat,24/09/2024,25,₹732.11,upi,4 stars,Delivered
+5093,Spice Garden,Continental ,Rajkot,27/01/2024,-53,,Wallet,5 stars,delivered
+5336,Pizza Palace,south indian,Vadodara,26-Feb-2024,24,₹909.18,cod,4 stars,Cancelled
+5083,Taco Town,Fast Food,Rajkot,2024-03-28,N/A,552.32,COD,4 stars,cancelled
+5152,burger hub,North Indian,Surat,02-21-2024,N/A,,UPI,4 stars,delivered
+5273,Burger Hub,fast food,Vadodara,2024-12-04,41,,COD,0,Delivered Late
+5082,Grill Master,North Indian,ahmedabad,04/08/2024,49 min,304.82/-,UPI,NA,Cancelled
+5088,Taco Town,south indian,Rajkot,2024-03-25,,336.41,UPI,2,cancelled
+5087,Cafe Mocha,south indian,surat,22/07/2024,N/A,397.4,Cash on Delivery,5 stars,Returned
+5298,Burger Hub,Continental,Vadodara,2024-07-18,N/A,1270.53/-,UPI,2.7,Cancelled
+5141,Burger Hub,south indian,Surat,30/10/2024,N/A,NaN,Credit Card,0,cancelled
+5346,Cafe Mocha,Italian,Mumbai,24-May-2024,53 min,₹818.97,COD,4,Delivered Late
+5256,The Sushi Spot,Continental,Surat,14-Nov-2024,34.1 mins,1322.06,COD,,Cancelled
+5288,The Sushi Spot,Italian,Ahmedabad,11-14-2024,39.6 mins,₹962.01,UPI,0,Cancelled
+5300,Curry House,South Indian,Ahmedabad,2024-11-17,,Rs.1261.35,Cash on Delivery,5 stars,Delivered
+5050,cafe mocha,chinese,ahmedabad,24/10/2024,35,,Wallet,4 stars,Delivered
+5039,Pizza Palace,chinese,Ahmedabad,17/02/2024,,NaN,UPI,4 stars,Returned
+5221,Sweet Tooth Bakery,Italian,ahmedabad,20-Jul-2024,141,NaN,COD,4 stars,cancelled
+5347,spice garden,Fast Food,surat,03-Sep-2024,23,₹226.7,cod,NA,delivered
+5219,The Sushi Spot,chinese,Mumbai,2024-05-10,38,₹1212.52,Wallet,NA,cancelled
+5084,Grill Master,North Indian,Mumbai,22/08/2024,53.6 mins,,upi,0,delivered
+5230,Biryani Blues,chinese,Surat,04-Jul-2024,15,1215.91/-,Wallet,2.9,Delivered
+5034,Cafe Mocha,Continental ,Mumbai,2024-01-28,N/A,NaN,Wallet,4,cancelled
+5244,Biryani Blues ,Fast Food,Vadodara,2024-02-05,N/A,345.27/-,Cash on Delivery,NA,delivered
+5200,Burger Hub,Continental ,Mumbai,04-10-2024,37.8 mins,506.65,cod,4 stars,cancelled
+5558,spice garden,North Indian,ahmedabad,21/10/2024,24.3 mins,1091.54/-,Wallet,1,Delivered Late
+5496,Pizza Palace,fast food,surat,2024-05-15,,1283.61,Cash on Delivery,NA,Returned
+5289,Grill Master,south indian,ahmedabad,18-Aug-2024,N/A,Rs.331.67,Wallet,4 stars,Delivered Late
+5540,SPICE GARDEN,Italian,Surat,28/11/2024,52 min,,COD,4 stars,Returned
+5420,The Sushi Spot,Mexican,Ahmedabad,02/12/2024,15,941.2/-,UPI,,Delivered Late
+5162,Biryani Blues,Continental ,Rajkot,12-08-2024,,NaN,Credit Card,,Delivered Late
+5463,Noodle Box,North Indian,Mumbai,26/09/2024,-36,806.62,Wallet,1,Cancelled
+5556,The Sushi Spot,Fast Food,Surat,21/03/2024,,Rs.1144.69,cod,,Delivered
+5328,Curry House,chinese,surat,23/05/2024,233,Rs.983.89,Credit Card,3,Returned
+5554,Cafe Mocha,Desserts,Surat,11-Mar-2024,37 min,516.28,Cash on Delivery,NA,Delivered Late
+5546,Grill Master,fast food,Rajkot,14-Jan-2024,26,NaN,UPI,1.8,Delivered Late
+5433,Sweet Tooth Bakery,South Indian,surat,04-04-2024,23 min,1420.48/-,cod,0,cancelled
+5150,Spice Garden,North Indian,Ahmedabad,08-09-2024,36 min,Rs.1446.32,Credit Card,2,Returned
+5043,Spice Garden,chinese,Vadodara,04-05-2024,-60,806.8,upi,,Returned
+5172,Pizza Palace,Desserts,Ahmedabad,2024-03-13,19.0 mins,1112.5,upi,5,cancelled
+5197,The Sushi Spot,Continental,Mumbai,09-23-2024,34.9 mins,,upi,4 stars,delivered
+5597,Pizza Palace,Continental ,Surat,2024-02-10,55 min,NaN,Credit Card,5 stars,Returned
+5205,Cafe Mocha,chinese,ahmedabad,2024-05-17,N/A,Rs.826.03,Cash on Delivery,NA,delivered
+5350,cafe mocha,Fast Food,Ahmedabad,2024-03-13,212,Rs.335.53,cod,0,Delivered
+5319,cafe mocha,Mexican,Surat,22-Feb-2024,58 min,1172.0/-,Cash on Delivery,0,Cancelled
+5407,Grill Master,Fast Food,Vadodara,2024-02-23,N/A,,UPI,3.9,Cancelled
+5140,Curry House,Desserts,ahmedabad,2024-06-05,-37,NaN,upi,4,Returned
+5079,Biryani Blues ,Fast Food,Rajkot,2024-09-24,296,Rs.861.39,Credit Card,NA,cancelled
+5392,Taco Town,North Indian,surat,25/11/2024,,,upi,NA,Returned
+5525,Biryani Blues,chinese,Vadodara,06-Jul-2024,-43,₹851.58,upi,2.4,Delivered
+5096,spice garden,Chinese,Vadodara,2024-08-12,51 min,432.02/-,cod,4 stars,Delivered
+5257,Cafe Mocha,chinese,Vadodara,06-Feb-2024,34.9 mins,1263.19/-,COD,1,Delivered
+5514,Cafe Mocha,chinese,surat,03/07/2024,40,₹1148.32,UPI,2,Cancelled
+5241,Curry House ,south indian,Vadodara,2024-02-02,37 min,,COD,NA,cancelled
+5472,Spice Garden,south indian,Mumbai,05-26-2024,N/A,NaN,UPI,,Cancelled
+5232,The Sushi Spot,Italian,surat,08-15-2024,,NaN,Credit Card,5,Delivered Late
+5266,Biryani Blues ,Mexican,ahmedabad,2024-10-18,46.2 mins,₹543.46,COD,4 stars,Delivered Late
+5532,Taco Town,North Indian,ahmedabad,28-Mar-2024,,NaN,Cash on Delivery,4 stars,Delivered
+5589,The Sushi Spot,Continental,Surat,10/03/2024,50.7 mins,Rs.1410.67,Credit Card,5 stars,Delivered
+5060,Burger Hub,South Indian,Ahmedabad,04-May-2024,,1006.99,Wallet,4,Delivered
+5193,Curry House ,Mexican,ahmedabad,06-19-2024,,NaN,COD,NA,delivered
+5012,cafe mocha,Continental ,ahmedabad,2024-08-17,-48,215.91/-,Cash on Delivery,,delivered
+5485,SPICE GARDEN,Chinese,surat,07-May-2024,34,1442.24,UPI,0,Returned
+5287,Sweet Tooth Bakery,chinese,Mumbai,11-04-2024,-46,773.83,Cash on Delivery,2.9,delivered
+5490,cafe mocha,Continental ,Ahmedabad,10/10/2024,36,,upi,4 stars,Cancelled
+5312,Taco Town,North Indian,Ahmedabad,2024-01-29,163,₹1443.55,upi,,delivered
+5021,spice garden,Chinese,Rajkot,2024-04-19,53 min,1316.66/-,Wallet,,Returned
+5582,Noodle Box,Chinese,Vadodara,04-16-2024,36.7 mins,,UPI,0,Delivered Late
+5531,spice garden,Mexican,Mumbai,06-11-2024,37.3 mins,₹567.5,UPI,5 stars,Returned
+5173,Burger Hub,Italian,Ahmedabad,07/10/2024,-30,,Cash on Delivery,3,Returned
+5038,cafe mocha,North Indian,surat,2024-03-03,,1368.01/-,cod,NA,Delivered
+5411,Cafe Mocha,Italian,Vadodara,14-Jun-2024,46 min,NaN,UPI,1,Delivered Late
+5324,Pizza Palace,Italian,Ahmedabad,04-30-2024,N/A,446.35/-,cod,5 stars,cancelled
+5272,SPICE GARDEN,Fast Food,Rajkot,2024-02-22,N/A,1184.43,COD,5 stars,Delivered Late
+5577,Curry House,Italian,Ahmedabad,20/04/2024,-43,NaN,upi,NA,Cancelled
+5389,Taco Town,Italian,Surat,2024-06-27,121,Rs.548.35,cod,NA,Returned
+5410,spice garden,Fast Food,Surat,2024-11-28,220,550.15/-,cod,NA,Cancelled
+5503,Curry House ,south indian,surat,05/03/2024,36.9 mins,468.68,Cash on Delivery,4 stars,Cancelled
+5245,Noodle Box,Chinese,Mumbai,25/09/2024,16,1293.87,Cash on Delivery,,Delivered Late
+5467,Cafe Mocha,south indian,Vadodara,2024-05-21,-46,193.47/-,Credit Card,NA,delivered
+5094,Burger Hub,Italian,Vadodara,26/02/2024,36 min,Rs.682.94,UPI,NA,Cancelled
+5543,Curry House ,Desserts,Rajkot,11/12/2024,-35,,cod,4 stars,Delivered Late
+5302,burger hub,Continental,surat,05-Jun-2024,128,NaN,COD,0,delivered
+5548,cafe mocha,Mexican,ahmedabad,26/06/2024,20.8 mins,NaN,upi,5 stars,Cancelled
+5444,Curry House,Fast Food,Surat,25-Dec-2024,,267.55/-,COD,,Delivered Late
+5130,Spice Garden,Continental,ahmedabad,03-Apr-2024,,₹1346.24,Cash on Delivery,,Delivered Late
+5071,Pizza Palace,chinese,ahmedabad,21/12/2024,37 min,NaN,COD,NA,Delivered Late
+5186,Biryani Blues,south indian,Rajkot,04-17-2024,23,571.15,Wallet,0,cancelled
+5379,Burger Hub,Desserts,ahmedabad,15/04/2024,158,NaN,UPI,5 stars,cancelled
+5541,Spice Garden,fast food,Ahmedabad,12-16-2024,,,Wallet,,Cancelled
+5500,Grill Master,Continental ,Vadodara,27-May-2024,N/A,1085.83,Cash on Delivery,4 stars,delivered
+5167,Curry House ,South Indian,surat,28-Oct-2024,15,Rs.284.8,cod,,Returned
+5511,Spice Garden,south indian,Surat,2024-08-01,N/A,Rs.1196.87,Credit Card,2,Cancelled
+5110,Noodle Box,Continental ,Mumbai,08-11-2024,47.8 mins,1207.91,Wallet,5 stars,cancelled
+5137,spice garden,south indian,Mumbai,02-Sep-2024,32,,Cash on Delivery,0,cancelled
+5016,Cafe Mocha,North Indian,Surat,08-27-2024,44 min,₹989.31,COD,,Delivered Late
+5368,Curry House,Continental,Surat,19/09/2024,56.1 mins,475.53,UPI,5 stars,delivered
+5507,Sweet Tooth Bakery,South Indian,ahmedabad,21/06/2024,27.8 mins,,cod,,Cancelled
+5353,Spice Garden,North Indian,Mumbai,07-Nov-2024,,Rs.992.19,Wallet,,Returned
+5405,Spice Garden,Italian,Surat,07-01-2024,N/A,,COD,0,Returned
+5091,Burger Hub,Continental ,Surat,04/03/2024,280,Rs.220.46,cod,5 stars,Delivered Late
+5395,cafe mocha,Desserts,Mumbai,01/05/2024,32,₹502.04,Wallet,1.4,Cancelled
+5101,Taco Town,south indian,Vadodara,26/02/2024,26.0 mins,NaN,cod,,Delivered Late
+5574,Burger Hub,fast food,Vadodara,04/01/2024,N/A,,Cash on Delivery,4,Cancelled
+5204,Pizza Palace,chinese,Surat,29-May-2024,-60,1304.78/-,UPI,4 stars,Cancelled
+5295,Biryani Blues ,Continental ,Vadodara,09-Mar-2024,N/A,NaN,upi,5 stars,Delivered Late
+5176,Biryani Blues,fast food,Vadodara,16-Aug-2024,48 min,Rs.1389.37,Credit Card,5,Delivered Late
+5323,Curry House,Italian,Vadodara,27-Feb-2024,-24,572.02/-,Wallet,4 stars,delivered
+5017,Biryani Blues,fast food,Mumbai,01-21-2024,-15,349.64,UPI,NA,Cancelled
+5557,Biryani Blues,fast food,ahmedabad,06/09/2024,,NaN,Wallet,5 stars,Returned
+5327,burger hub,Chinese,ahmedabad,2024-04-21,234,NaN,Credit Card,,Cancelled
+5020,Biryani Blues,south indian,Ahmedabad,01-20-2024,32,NaN,Wallet,NA,delivered
+5304,Curry House ,Italian,Mumbai,28-Nov-2024,-16,917.58,COD,5,Delivered Late
+5263,Biryani Blues ,South Indian,ahmedabad,12/10/2024,137,1367.01/-,UPI,4 stars,Delivered
+5449,Cafe Mocha,Italian,Mumbai,30-Jul-2024,-20,₹1014.48,Cash on Delivery,4.4,cancelled
+5516,Sweet Tooth Bakery,South Indian,Ahmedabad,2024-04-05,138,1410.87/-,UPI,4 stars,Delivered Late
+5351,Cafe Mocha,Continental,surat,21/01/2024,N/A,152.3/-,Cash on Delivery,1.6,delivered
+5136,Curry House,chinese,Mumbai,2024-06-10,219,,upi,4 stars,Cancelled
+5199,Curry House ,chinese,surat,02-May-2024,-57,,Credit Card,,Delivered
+5468,Curry House,south indian,Rajkot,25-Jun-2024,27.1 mins,1294.44,cod,NA,Returned
+5069,Biryani Blues ,south indian,Ahmedabad,07-01-2024,263,719.39,cod,4 stars,Returned
+5223,burger hub,fast food,Mumbai,06-16-2024,,183.21,Wallet,3.9,cancelled
+5176,Biryani Blues,fast food,Vadodara,16-Aug-2024,48 min,Rs.1389.37,Credit Card,5,Delivered Late
+5461,spice garden,Chinese,ahmedabad,29-Dec-2024,47 min,₹1425.5,upi,NA,cancelled
+5517,Pizza Palace,Italian,Surat,15/05/2024,-27,,COD,,delivered
+5469,Noodle Box,Continental,ahmedabad,2024-02-09,47,NaN,COD,5,Delivered
+5475,Taco Town,Continental ,ahmedabad,2024-05-14,49,NaN,Wallet,NA,delivered
+5401,Biryani Blues,Italian,surat,2024-11-17,60 min,412.43,upi,5 stars,cancelled
+5449,Cafe Mocha,Italian,Mumbai,30-Jul-2024,-20,₹1014.48,Cash on Delivery,4.4,cancelled
+5369,Sweet Tooth Bakery,Italian,Mumbai,02-Jan-2024,250,1325.9/-,Credit Card,2.0,Delivered Late
+5590,Grill Master,Fast Food,Ahmedabad,2024-11-08,-59,,Wallet,4.2,delivered
+5182,Pizza Palace,Continental ,Mumbai,26/07/2024,-46,Rs.371.49,Wallet,NA,Delivered Late
+5584,Biryani Blues ,Desserts,Surat,06-01-2024,-29,296.46,cod,3,Cancelled
+5185,Noodle Box,South Indian,surat,05-04-2024,201,1346.71/-,upi,NA,Cancelled
+5390,Burger Hub,North Indian,Ahmedabad,2024-06-28,-35,1258.51/-,Wallet,0,Returned
+5132,Sweet Tooth Bakery,Continental ,Ahmedabad,2024-02-10,23.0 mins,392.02/-,Cash on Delivery,0,Delivered
+5409,Biryani Blues,South Indian,Surat,04-19-2024,,NaN,cod,0,cancelled
+5177,cafe mocha,Continental,Vadodara,08-29-2024,-55,1021.9,Credit Card,1,Returned
+5413,Cafe Mocha,chinese,Rajkot,04-Jun-2024,,₹724.01,Wallet,1,Returned
+5502,cafe mocha,Mexican,Mumbai,23/01/2024,N/A,NaN,Credit Card,5 stars,cancelled
+5333,Cafe Mocha,fast food,Surat,2024-06-05,N/A,,cod,1,delivered
+5234,The Sushi Spot,fast food,Surat,13/05/2024,17,273.58,Credit Card,,Delivered Late
+5334,Spice Garden,North Indian,Ahmedabad,12-15-2024,37.4 mins,NaN,upi,4 stars,Cancelled
+5451,Biryani Blues,Desserts,Rajkot,12-Feb-2024,243,₹384.52,upi,,Cancelled
+5019,Cafe Mocha,chinese,Ahmedabad,29-Aug-2024,,,UPI,3.7,delivered
+5585,Pizza Palace,Chinese,Mumbai,2024-04-09,253,Rs.1014.55,Cash on Delivery,,cancelled
+5048,Noodle Box,Continental ,Rajkot,16/09/2024,295,Rs.732.18,cod,,cancelled
+5398,Biryani Blues ,South Indian,surat,21-Jan-2024,48,NaN,COD,0,delivered
+5571,Sweet Tooth Bakery,South Indian,surat,03-24-2024,-47,,UPI,,Delivered Late
+5550,The Sushi Spot,chinese,Vadodara,2024-08-25,55.4 mins,233.9,upi,,Returned
+5529,Curry House ,Continental,Mumbai,10-21-2024,,NaN,upi,,cancelled
+5116,Biryani Blues ,Continental,Surat,12/10/2024,,,upi,2,Delivered
+5494,Burger Hub,fast food,Mumbai,10-18-2024,186,₹1345.23,Wallet,5 stars,Delivered
+5235,Spice Garden,Mexican,Surat,2024-02-14,260,Rs.847.67,UPI,0,delivered
+5417,Pizza Palace,Fast Food,surat,2024-06-29,204,1491.73/-,COD,,Returned
+5285,Grill Master,fast food,Surat,26-Jul-2024,300,NaN,upi,1,Returned
+5134,SPICE GARDEN,Continental ,Vadodara,2024-11-28,23 min,Rs.1126.76,cod,5,cancelled
+5535,Cafe Mocha,North Indian,ahmedabad,2024-02-01,-15,NaN,Wallet,0,Delivered Late
+5246,Biryani Blues,Desserts,Mumbai,25/11/2024,58.5 mins,651.51,Cash on Delivery,5 stars,cancelled
+5442,Curry House ,chinese,Ahmedabad,2024-09-18,,Rs.1461.31,UPI,,Delivered Late
+5111,Curry House ,chinese,surat,10-11-2024,38,1431.51/-,UPI,,Cancelled
+5201,The Sushi Spot,Desserts,Surat,08/07/2024,-44,,COD,4,Delivered Late
+5447,Curry House,Continental,Ahmedabad,09-Nov-2024,-34,NaN,Credit Card,0,delivered
+5037,Curry House,Desserts,Mumbai,2024-12-22,-35,NaN,cod,5 stars,delivered
+5366,SPICE GARDEN,fast food,ahmedabad,2024-09-23,261,747.48/-,Credit Card,NA,Returned
+5118,Biryani Blues ,South Indian,ahmedabad,11/07/2024,19.6 mins,₹303.88,Wallet,1.4,Delivered
+5277,Biryani Blues,Italian,Mumbai,01/05/2024,-17,Rs.1337.12,Credit Card,2.8,Delivered
+5233,Biryani Blues,Chinese,Surat,24-Aug-2024,221,NaN,COD,,Returned
+5473,Spice Garden,fast food,Rajkot,2024-05-09,-49,₹254.53,upi,,Delivered
+5023,Spice Garden,Continental,Rajkot,25-Apr-2024,-40,₹878.79,upi,NA,Returned
+5258,Biryani Blues,south indian,ahmedabad,12-02-2024,131,Rs.1390.57,UPI,1,Cancelled
+5309,Grill Master,Continental,ahmedabad,08-14-2024,30.3 mins,,cod,0,Delivered
+5090,Sweet Tooth Bakery,Fast Food,Ahmedabad,01-27-2024,N/A,1130.7/-,Wallet,5 stars,Returned
+5332,Curry House ,south indian,Rajkot,11-05-2024,42,NaN,Credit Card,NA,Cancelled
+5364,Pizza Palace,Italian,surat,11-06-2024,58,NaN,cod,4 stars,Cancelled
+5028,Biryani Blues,North Indian,Surat,31/05/2024,47,₹602.39,Wallet,5 stars,Delivered Late
+5377,Sweet Tooth Bakery,fast food,surat,10/04/2024,20,₹465.31,COD,4 stars,Delivered
+5418,spice garden,Italian,Vadodara,30/12/2024,-32,NaN,upi,,Delivered Late
+5035,spice garden,Chinese,surat,2024-09-19,55,817.47,upi,3.0,Cancelled
+5570,Cafe Mocha,South Indian,Surat,12/07/2024,48 min,₹904.23,Wallet,,delivered
+5207,Pizza Palace,fast food,surat,2024-10-17,192,₹677.5,upi,,Delivered
+5588,Burger Hub,South Indian,Ahmedabad,2024-04-27,43,Rs.1012.33,COD,,Delivered
+5178,Pizza Palace,Desserts,Ahmedabad,01-30-2024,N/A,1343.15/-,UPI,5 stars,Delivered
+5081,Spice Garden,Chinese,Ahmedabad,17/10/2024,278,1112.17/-,COD,4 stars,Returned
+5419,Sweet Tooth Bakery,Mexican,Ahmedabad,2024-12-08,279,864.41/-,COD,4 stars,Returned
+5057,Burger Hub,North Indian,ahmedabad,17-Feb-2024,N/A,NaN,COD,NA,Delivered Late
+5549,Cafe Mocha,South Indian,Surat,02-Jul-2024,16,,Wallet,5,cancelled
+5121,cafe mocha,chinese,Surat,2024-12-11,,328.18,Credit Card,5 stars,Cancelled
+5026,cafe mocha,Desserts,Rajkot,24-Oct-2024,N/A,₹1058.34,Cash on Delivery,5 stars,Delivered Late
+5242,SPICE GARDEN,south indian,Surat,14-Apr-2024,-25,Rs.1376.24,Wallet,,cancelled
+5396,Pizza Palace,Fast Food,ahmedabad,2024-06-18,32.6 mins,212.6,UPI,2.2,cancelled
+5560,Burger Hub,Fast Food,Surat,2024-07-21,-43,NaN,UPI,4 stars,cancelled
+5520,Curry House ,Continental,Surat,08/04/2024,,₹914.42,upi,2,cancelled
+5004,spice garden,Continental,Vadodara,2024-10-11,22.7 mins,₹1405.1,cod,,delivered
+5305,Noodle Box,Continental ,surat,01-28-2024,45,Rs.189.95,Credit Card,5 stars,cancelled
+5077,spice garden,Desserts,Surat,03/03/2024,52.2 mins,,Cash on Delivery,5 stars,Returned
+5217,Noodle Box,Italian,surat,05-24-2024,,1295.22,upi,4 stars,delivered
+5283,Pizza Palace,Continental,Ahmedabad,2024-02-18,,NaN,Cash on Delivery,NA,Delivered
+5135,Taco Town,Continental ,Vadodara,2024-08-30,22.9 mins,Rs.273.15,Cash on Delivery,NA,Delivered
+5318,Taco Town,Continental,Mumbai,01-10-2024,N/A,712.39,COD,4 stars,delivered
+5453,Pizza Palace,Fast Food,Surat,14/12/2024,23.9 mins,1395.13,COD,5 stars,delivered
+5218,Pizza Palace,South Indian,Surat,30/01/2024,46 min,NaN,Credit Card,,Delivered
+5335,Cafe Mocha,Desserts,Vadodara,2024-10-21,27,Rs.426.4,upi,4 stars,Returned
+5127,Curry House ,Chinese,Mumbai,07-Oct-2024,N/A,1211.81,Wallet,1.8,delivered
+5598,Noodle Box,south indian,Vadodara,03-14-2024,,431.18/-,Cash on Delivery,3,delivered
+5296,Spice Garden,North Indian,surat,05-27-2024,N/A,,Credit Card,5 stars,cancelled
+5155,SPICE GARDEN,Italian,Ahmedabad,11-03-2024,51 min,₹1489.58,COD,,Cancelled
+5435,spice garden,Continental,surat,2024-12-13,,,COD,4 stars,Cancelled
+5400,Grill Master,south indian,Mumbai,02-04-2024,-28,,Wallet,0,cancelled
+5249,Spice Garden,chinese,Rajkot,11-12-2024,140,Rs.571.37,Wallet,5 stars,delivered
+5284,Taco Town,Fast Food,surat,15/12/2024,49 min,828.88/-,Cash on Delivery,4 stars,Cancelled
+5022,burger hub,fast food,Vadodara,2024-11-11,N/A,645.41,Cash on Delivery,3.6,delivered
+5227,Biryani Blues ,Italian,surat,14-Mar-2024,60 min,268.59,upi,2,cancelled
+5576,Biryani Blues,Fast Food,surat,16/06/2024,36.4 mins,729.32/-,upi,4 stars,Cancelled
+5403,Taco Town,Chinese,Rajkot,27-Aug-2024,,NaN,Cash on Delivery,NA,Delivered
+5002,cafe mocha,Chinese,Ahmedabad,07-24-2024,24,,upi,4 stars,Delivered Late
+5445,SPICE GARDEN,chinese,Rajkot,22/09/2024,-39,,Credit Card,2.9,Delivered
+5036,Cafe Mocha,Continental,surat,07/01/2024,N/A,NaN,Credit Card,5 stars,Returned
+5029,Biryani Blues ,Continental,Rajkot,2024-12-01,-47,Rs.1008.89,Cash on Delivery,0,Returned
+5408,Spice Garden,North Indian,Vadodara,09-09-2024,-35,Rs.569.7,upi,4 stars,cancelled
+5495,spice garden,Desserts,surat,30/06/2024,42.8 mins,Rs.185.6,UPI,NA,Cancelled
+5457,Noodle Box,Desserts,Surat,2024-11-29,59 min,₹951.14,Wallet,NA,Returned
+5005,spice garden,chinese,Surat,27/07/2024,245,908.45/-,Wallet,4 stars,Cancelled
+5293,Taco Town,South Indian,Vadodara,03-25-2024,,Rs.824.94,upi,0,cancelled
+5281,Biryani Blues,Chinese,Surat,13-May-2024,42.2 mins,NaN,Wallet,,delivered
+5032,Cafe Mocha,Mexican,Surat,2024-01-10,29 min,732.99,COD,5 stars,cancelled
+5421,The Sushi Spot,fast food,ahmedabad,10-Feb-2024,263,₹304.9,upi,5 stars,delivered
+5512,Biryani Blues ,Continental,Ahmedabad,23-Nov-2024,-35,Rs.294.96,cod,2,cancelled
+5115,Biryani Blues,North Indian,surat,12-21-2024,33,₹959.68,COD,4 stars,Delivered Late
+5459,Burger Hub,Desserts,Mumbai,03/01/2024,,Rs.659.35,UPI,,Delivered
+5156,Spice Garden,Mexican,Surat,06/11/2024,52 min,900.07,Wallet,5 stars,delivered
+5513,SPICE GARDEN,south indian,ahmedabad,20-Aug-2024,33 min,729.2,Cash on Delivery,0,Delivered
+5361,Biryani Blues,chinese,surat,09-Jun-2024,,,Wallet,0,Cancelled
+5492,The Sushi Spot,Continental,Vadodara,05-29-2024,N/A,NaN,Credit Card,5 stars,Returned
+5358,Biryani Blues,Continental ,Vadodara,12-Jan-2024,N/A,Rs.814.15,Wallet,,delivered
+5563,Spice Garden,Mexican,Ahmedabad,2024-04-15,30 min,1303.07,cod,2.3,Returned
+5098,Sweet Tooth Bakery,Continental ,Ahmedabad,2024-07-28,N/A,,upi,0,cancelled
+5074,The Sushi Spot,North Indian,ahmedabad,07-06-2024,22,₹411.2,Wallet,NA,Delivered
+5259,Curry House ,North Indian,Rajkot,2024-08-16,,Rs.1443.53,Wallet,NA,Delivered Late
+5297,Sweet Tooth Bakery,South Indian,Surat,2024-09-18,N/A,₹803.31,upi,0,cancelled
+5143,Biryani Blues,South Indian,Ahmedabad,2024-07-14,50 min,1383.87/-,Wallet,5.0,cancelled
+5470,burger hub,south indian,Rajkot,21-May-2024,-17,576.73,Cash on Delivery,,cancelled
+5041,Pizza Palace,South Indian,Rajkot,26/06/2024,16.9 mins,,Credit Card,3.4,cancelled
+5539,Cafe Mocha,Chinese,surat,26-Mar-2024,199,576.09/-,upi,1,delivered
+5010,Pizza Palace,fast food,Vadodara,17/10/2024,26.4 mins,Rs.360.83,UPI,4 stars,Delivered Late
+5179,Biryani Blues,south indian,Mumbai,2024-09-20,162,Rs.1017.12,Wallet,NA,Returned
+5007,Spice Garden,chinese,Vadodara,06/07/2024,N/A,NaN,Credit Card,2.5,Returned
+5208,Pizza Palace,Continental,surat,26-May-2024,24.8 mins,₹1049.85,cod,NA,cancelled
+5148,Curry House ,Fast Food,Rajkot,03-21-2024,43 min,₹231.95,COD,4,delivered
+5330,Burger Hub,North Indian,ahmedabad,17/04/2024,32.7 mins,,cod,,Delivered Late
+5375,Sweet Tooth Bakery,Mexican,ahmedabad,06-Sep-2024,17.7 mins,,Cash on Delivery,,delivered
+5523,Spice Garden,South Indian,Surat,06/11/2024,,228.52,Cash on Delivery,NA,cancelled
+5595,SPICE GARDEN,Continental,Mumbai,21-Apr-2024,48 min,1115.33/-,Wallet,5 stars,delivered
+5321,Sweet Tooth Bakery,North Indian,Ahmedabad,07-24-2024,,Rs.704.63,Wallet,1.5,Delivered Late
+5414,Burger Hub,South Indian,surat,04-22-2024,23 min,644.81,UPI,3,Delivered
+5291,burger hub,Desserts,ahmedabad,07-28-2024,N/A,,COD,4 stars,Returned
+5528,Sweet Tooth Bakery,Continental ,Rajkot,2024-08-26,51 min,₹726.65,upi,5 stars,Delivered
+5415,Spice Garden,fast food,Rajkot,05-May-2024,N/A,1118.82/-,Cash on Delivery,2,delivered
+5049,The Sushi Spot,Continental,Mumbai,08-Sep-2024,17.7 mins,₹864.98,upi,2,delivered
+5504,Curry House ,Mexican,Surat,2024-05-15,-41,1177.61,COD,0,Cancelled
+5376,Burger Hub,Desserts,surat,23/02/2024,24.7 mins,540.78,cod,1.8,cancelled
+5578,Biryani Blues ,Fast Food,Rajkot,26/02/2024,41 min,1451.92,cod,4 stars,Delivered
+5586,Pizza Palace,Mexican,Mumbai,2024-07-15,-54,615.91,COD,5 stars,delivered
+5097,Sweet Tooth Bakery,Italian,surat,06-19-2024,,1323.1,Cash on Delivery,0,Delivered Late
+5498,Spice Garden,Continental ,Rajkot,20-Dec-2024,N/A,445.1,cod,4 stars,Returned
+5215,Biryani Blues ,Italian,Surat,11-20-2024,20,NaN,COD,5,cancelled
+5448,Taco Town,chinese,Ahmedabad,18/03/2024,57 min,1143.95,UPI,5,Returned
+5052,Sweet Tooth Bakery,Fast Food,Surat,30-Nov-2024,50,,Credit Card,5 stars,Delivered
+5308,Cafe Mocha,south indian,surat,18-Jul-2024,N/A,NaN,Credit Card,4 stars,Delivered
+5315,The Sushi Spot,Chinese,ahmedabad,07-Mar-2024,48.3 mins,1149.74,Wallet,0,Cancelled
+5488,Biryani Blues ,Fast Food,surat,23-Mar-2024,N/A,,Credit Card,4 stars,Returned
+5391,Biryani Blues,Fast Food,Rajkot,09-Aug-2024,120,758.38/-,Wallet,5 stars,Returned
+5501,The Sushi Spot,Desserts,surat,02-05-2024,45,353.21,Wallet,0,Delivered Late
+5119,Grill Master,South Indian,surat,2024-07-06,39 min,NaN,Cash on Delivery,1.9,Cancelled
+5551,Pizza Palace,fast food,Ahmedabad,11/05/2024,,,Wallet,3.9,cancelled
+5394,Spice Garden,Italian,surat,17-Jul-2024,46 min,NaN,COD,1,Cancelled
+5594,Sweet Tooth Bakery,Mexican,Ahmedabad,30/08/2024,36,,Credit Card,NA,Delivered Late
+5086,Pizza Palace,chinese,Vadodara,11/01/2024,26 min,,Credit Card,4,Delivered
+5171,Grill Master,Desserts,Surat,05-06-2024,45 min,Rs.297.32,Wallet,1,Delivered Late
+5027,Burger Hub,chinese,Surat,2024-12-20,N/A,318.64,cod,2.0,Delivered Late
+5510,Spice Garden,Fast Food,Ahmedabad,27-Jun-2024,,₹1315.58,cod,0,Cancelled
+5491,SPICE GARDEN,chinese,Vadodara,06-17-2024,-23,,cod,NA,Returned
+5252,Curry House ,Continental,Surat,16/08/2024,-25,NaN,upi,NA,cancelled
+5536,Burger Hub,Continental,Mumbai,2024-10-05,56,,COD,4 stars,Returned
+5131,Burger Hub,Italian,surat,28/03/2024,194,,cod,NA,Cancelled
+5125,spice garden,Mexican,Mumbai,23-Feb-2024,-49,1051.39/-,Wallet,5 stars,Delivered
+5009,cafe mocha,Fast Food,Mumbai,07-21-2024,54 min,NaN,UPI,1,cancelled
+5078,Noodle Box,Italian,Rajkot,05/01/2024,,₹597.27,Cash on Delivery,NA,Returned
+5484,Burger Hub,Desserts,Mumbai,2024-03-27,26 min,250.44/-,Credit Card,,Delivered Late
+5544,Sweet Tooth Bakery,North Indian,Vadodara,10-Nov-2024,-41,Rs.1016.97,COD,,cancelled
+5054,Pizza Palace,Fast Food,Rajkot,06/08/2024,55.2 mins,1285.44,Cash on Delivery,1,Cancelled
+5388,Pizza Palace,Continental ,Vadodara,17-Apr-2024,-27,Rs.856.6,upi,4 stars,Returned
+5352,cafe mocha,Desserts,Surat,2024-11-17,,582.52,Wallet,1,Returned
+5487,spice garden,Fast Food,Rajkot,07-Oct-2024,36.5 mins,795.45,UPI,4.3,cancelled
+5250,Cafe Mocha,Fast Food,Mumbai,04/01/2024,,₹1311.61,Wallet,,cancelled
+5443,Curry House ,Desserts,Rajkot,11-23-2024,28 min,1174.21,COD,NA,delivered
+5165,The Sushi Spot,North Indian,Ahmedabad,02-28-2024,,729.9/-,Cash on Delivery,1.7,cancelled
+5505,Curry House,South Indian,Vadodara,03-21-2024,51 min,434.86,upi,2.2,Delivered Late
+5264,Taco Town,fast food,Mumbai,02-Mar-2024,,NaN,COD,4,Delivered
+5051,Pizza Palace,Italian,Surat,25/03/2024,52 min,₹1449.79,UPI,5,cancelled
+5107,The Sushi Spot,Italian,Rajkot,02-26-2024,58,Rs.944.96,UPI,5 stars,Delivered
+5059,SPICE GARDEN,Fast Food,Rajkot,18/09/2024,38.5 mins,857.73/-,cod,5 stars,Cancelled
+5478,spice garden,South Indian,Mumbai,08-21-2024,44 min,NaN,COD,3,cancelled
+5567,spice garden,Fast Food,surat,08-16-2024,N/A,,cod,1,Delivered Late
+5499,spice garden,south indian,Ahmedabad,09-08-2024,269,,cod,5 stars,Cancelled
+5181,Pizza Palace,Desserts,Surat,25-Jan-2024,N/A,277.29/-,Wallet,1,Cancelled
+5152,burger hub,North Indian,Surat,02-21-2024,N/A,,UPI,4 stars,delivered
+5466,Cafe Mocha,Chinese,Ahmedabad,12/10/2024,N/A,1109.86/-,Cash on Delivery,NA,Returned
+5198,Grill Master,fast food,ahmedabad,2024-05-12,,NaN,UPI,,Cancelled
+5587,Cafe Mocha,fast food,Vadodara,12-13-2024,-26,Rs.846.65,upi,5,Returned
+5279,Curry House ,fast food,Rajkot,04/03/2024,175,150.93,UPI,0,delivered
+5331,The Sushi Spot,fast food,Surat,2024-12-05,N/A,Rs.1243.64,Credit Card,0,Cancelled
+5559,Biryani Blues,chinese,Vadodara,26-Jan-2024,46,₹211.42,Credit Card,4 stars,cancelled
+5190,Pizza Palace,Continental ,Ahmedabad,21/12/2024,N/A,1292.79,Cash on Delivery,,Cancelled
+5534,Cafe Mocha,Italian,Ahmedabad,10-29-2024,50.2 mins,1466.57,COD,0,cancelled
+5222,Biryani Blues ,south indian,Vadodara,2024-06-18,50 min,598.9/-,UPI,5 stars,Delivered Late
+5114,Grill Master,Desserts,Vadodara,05-Mar-2024,N/A,₹502.03,UPI,1,Delivered
+5151,SPICE GARDEN,Desserts,Rajkot,03-31-2024,29 min,Rs.1308.01,Wallet,NA,cancelled
+5460,Curry House ,fast food,Surat,17/09/2024,N/A,₹603.83,upi,0,Delivered Late
+5187,Grill Master,South Indian,Ahmedabad,08/08/2024,,₹1016.66,UPI,5 stars,Delivered
+5073,Curry House ,south indian,Mumbai,06/06/2024,,676.19/-,Cash on Delivery,2.8,cancelled
+5240,SPICE GARDEN,Continental,ahmedabad,09-07-2024,30.2 mins,NaN,Cash on Delivery,5 stars,cancelled
+5145,The Sushi Spot,Mexican,Mumbai,07-21-2024,55,986.57,cod,0,cancelled
+5562,Curry House,Italian,Ahmedabad,12/05/2024,N/A,₹805.06,upi,NA,Delivered Late
+5255,Biryani Blues,North Indian,Rajkot,2024-10-19,,NaN,Cash on Delivery,3.0,Delivered
+5095,Curry House ,Continental,Mumbai,07-02-2024,42 min,876.72,upi,,delivered
+5371,Cafe Mocha,Chinese,surat,26-Nov-2024,58 min,,Wallet,4.6,cancelled
+5370,Grill Master,North Indian,Vadodara,2024-08-04,N/A,NaN,cod,4 stars,delivered
+5515,Burger Hub,south indian,Ahmedabad,08/02/2024,-29,NaN,UPI,,Returned
+5412,Sweet Tooth Bakery,south indian,ahmedabad,03-15-2024,168,,Cash on Delivery,,Returned
+5493,Taco Town,chinese,Ahmedabad,2024-04-10,-24,882.04,COD,4,Delivered Late
+5161,Biryani Blues ,Fast Food,surat,2024-01-29,N/A,1235.05/-,UPI,5 stars,delivered
+5426,Biryani Blues,chinese,Rajkot,2024-06-29,,NaN,Cash on Delivery,4 stars,Delivered
+5243,spice garden,Desserts,Surat,07/07/2024,N/A,563.7/-,Cash on Delivery,,Cancelled
+5416,burger hub,Fast Food,Rajkot,14-Jul-2024,205,NaN,Cash on Delivery,0,Cancelled
+5343,Grill Master,chinese,surat,26/06/2024,44,1010.32,COD,4 stars,Delivered Late
+5322,Biryani Blues ,Fast Food,Vadodara,07-12-2024,224,NaN,UPI,NA,cancelled
+5561,Curry House,Desserts,Mumbai,02-Nov-2024,-52,1395.04,COD,NA,Cancelled
+5030,Noodle Box,Italian,Rajkot,20/09/2024,N/A,267.15/-,Credit Card,0,Cancelled
+5373,The Sushi Spot,Italian,surat,11-01-2024,141,577.25,Wallet,0,Delivered Late
+5123,Spice Garden,South Indian,surat,16-Jun-2024,,Rs.866.1,cod,4 stars,Delivered Late
+5056,Curry House,Desserts,Surat,02-14-2024,23.6 mins,Rs.1025.42,Cash on Delivery,,Cancelled
+5486,Noodle Box,South Indian,Ahmedabad,25/04/2024,N/A,,Wallet,NA,Returned
+5509,Pizza Palace,North Indian,Vadodara,2024-07-23,24,NaN,upi,0,Delivered
+5422,Curry House,Desserts,Vadodara,12-27-2024,37,509.55/-,COD,0,Delivered Late
+5149,Biryani Blues ,Italian,Rajkot,2024-11-02,,580.06/-,Cash on Delivery,4.4,Delivered Late
+5533,cafe mocha,Mexican,surat,03/08/2024,22,₹419.85,Cash on Delivery,5 stars,Cancelled
+5183,The Sushi Spot,chinese,Vadodara,25/04/2024,N/A,Rs.612.2,cod,NA,Cancelled
+5000,Biryani Blues,south indian,surat,03-25-2024,N/A,790.77,Wallet,NA,delivered
+5387,Cafe Mocha,chinese,Mumbai,2024-08-05,59.7 mins,Rs.696.59,upi,3.1,Delivered
+5564,Sweet Tooth Bakery,south indian,Surat,12-21-2024,-44,810.6/-,Wallet,NA,Delivered Late
+5126,Noodle Box,South Indian,surat,03-Feb-2024,-50,NaN,cod,,delivered
+5294,Noodle Box,Chinese,Mumbai,10-16-2024,25 min,716.71/-,upi,0,Delivered
+5044,Curry House ,chinese,Surat,2024-11-21,-20,1213.7/-,upi,5 stars,delivered
+5313,Curry House ,Desserts,surat,21-Dec-2024,-46,,cod,2.1,cancelled
+5109,burger hub,fast food,Surat,26-May-2024,,,Credit Card,5 stars,Returned
+5058,burger hub,Desserts,Surat,17-Jul-2024,N/A,Rs.217.95,Wallet,3.9,Cancelled
+5393,Spice Garden,Italian,Ahmedabad,01-06-2024,35 min,,upi,0,Delivered
+5456,Pizza Palace,Chinese,Vadodara,15-Jun-2024,N/A,Rs.1135.16,cod,3,cancelled
+5599,Cafe Mocha,North Indian,Mumbai,27-Apr-2024,-51,,COD,1,Returned
+5360,Burger Hub,Italian,Ahmedabad,15-May-2024,219,,UPI,NA,Cancelled
+5439,Cafe Mocha,Italian,Mumbai,12-Jun-2024,-49,Rs.1253.34,Credit Card,,Cancelled
+5174,Biryani Blues,South Indian,Vadodara,2024-08-18,-31,Rs.613.38,Credit Card,NA,Returned
+5122,Grill Master,Continental,ahmedabad,07-07-2024,28.0 mins,1346.72,Credit Card,,Delivered Late
